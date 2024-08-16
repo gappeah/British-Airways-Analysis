@@ -2,10 +2,9 @@
 
 ![Dashboard 1](https://github.com/user-attachments/assets/3cd9c0f4-efc4-4dfd-8b3f-bad214b7c6bd)
 
-
 ## Project Overview
 
-This project focuses on analyzing and visualising travel data from British Airways using Tableau. The goal is to extract insights and present them in an interactive and visually appealing manner.
+This project focuses on analysing and visualising travel data from British Airways using Tableau. The goal is to extract insights and present them in an interactive and visually appealing manner.
 
 ## Data Sources
 
